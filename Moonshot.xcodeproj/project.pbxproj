@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F5BD2A62ED4AB730025A68E /* CrewMember.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5BD2A52ED4AB730025A68E /* CrewMember.swift */; };
 		51FE10A72AEEF4DD00B2AD74 /* MoonshotApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51FE10A62AEEF4DD00B2AD74 /* MoonshotApp.swift */; };
 		51FE10A92AEEF4DD00B2AD74 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51FE10A82AEEF4DD00B2AD74 /* ContentView.swift */; };
 		51FE10AB2AEEF4DE00B2AD74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51FE10AA2AEEF4DE00B2AD74 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F5BD2A52ED4AB730025A68E /* CrewMember.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrewMember.swift; sourceTree = "<group>"; };
 		51FE10A32AEEF4DD00B2AD74 /* Moonshot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Moonshot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		51FE10A62AEEF4DD00B2AD74 /* MoonshotApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoonshotApp.swift; sourceTree = "<group>"; };
 		51FE10A82AEEF4DD00B2AD74 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				51FE10BE2AF05CD500B2AD74 /* Color-Theme.swift */,
 				51FE10B82AF0503000B2AD74 /* Astronaut.swift */,
 				51FE10BC2AF0552100B2AD74 /* Mission.swift */,
+				3F5BD2A52ED4AB730025A68E /* CrewMember.swift */,
 				51FE10BA2AF050AA00B2AD74 /* Bundle-Decodable.swift */,
 				51FE10B42AF04FC200B2AD74 /* missions.json */,
 				51FE10B52AF04FC200B2AD74 /* astronauts.json */,
@@ -167,6 +170,7 @@
 				51FE10B92AF0503000B2AD74 /* Astronaut.swift in Sources */,
 				51FE10C92AF1C15200B2AD74 /* AstronautView.swift in Sources */,
 				51FE10BF2AF05CD500B2AD74 /* Color-Theme.swift in Sources */,
+				3F5BD2A62ED4AB730025A68E /* CrewMember.swift in Sources */,
 				51FE10A92AEEF4DD00B2AD74 /* ContentView.swift in Sources */,
 				51FE10A72AEEF4DD00B2AD74 /* MoonshotApp.swift in Sources */,
 				51FE10BD2AF0552100B2AD74 /* Mission.swift in Sources */,
